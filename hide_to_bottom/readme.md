@@ -11,4 +11,4 @@ Compose compiler version: _1.4.7_
 Compose version: _2023.08.00_ (Compose BOM)
 
 ### Demo
-![Animation demo](https://github.com/msgivaldo/compose-hide-to-bottom-on-scroll/blob/main/hide_to_bottom/demo.mov)
+https://github.com/msgivaldo/compose-hide-to-bottom-on-scroll/assets/119754964/c88a9eaf-f499-4c9c-b275-ab9ba095069d
